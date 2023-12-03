@@ -1,0 +1,14 @@
+#SSPzahlen,#SSPauswahl2,#SSPauswahl {
+width: 75%;
+height: auto;
+}
+
+#pacMan, #pacManFeld {
+    width: 50%;
+    height: auto;
+}
+
+.Minesweeper {
+    width: 75%;
+    height: auto;
+}
